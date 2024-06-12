@@ -32,6 +32,7 @@
 		92B6066D2C19207F00A73C1B /* SwiftUIPager in Frameworks */ = {isa = PBXBuildFile; productRef = 92B6066C2C19207F00A73C1B /* SwiftUIPager */; };
 		92B606702C1920B200A73C1B /* ViewPager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92B6066F2C1920B200A73C1B /* ViewPager.swift */; };
 		92B606722C19F00F00A73C1B /* GroupBoxExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92B606712C19F00F00A73C1B /* GroupBoxExample.swift */; };
+		92B606742C19F52400A73C1B /* ViewPagerNative.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92B606732C19F52400A73C1B /* ViewPagerNative.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -59,6 +60,7 @@
 		92B606692C190C7200A73C1B /* CustomDialog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomDialog.swift; sourceTree = "<group>"; };
 		92B6066F2C1920B200A73C1B /* ViewPager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewPager.swift; sourceTree = "<group>"; };
 		92B606712C19F00F00A73C1B /* GroupBoxExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupBoxExample.swift; sourceTree = "<group>"; };
+		92B606732C19F52400A73C1B /* ViewPagerNative.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewPagerNative.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -180,6 +182,7 @@
 			isa = PBXGroup;
 			children = (
 				92B6066F2C1920B200A73C1B /* ViewPager.swift */,
+				92B606732C19F52400A73C1B /* ViewPagerNative.swift */,
 			);
 			path = ViewPager;
 			sourceTree = "<group>";
@@ -271,6 +274,7 @@
 				9209FD012C18B62800EC528A /* ListExample.swift in Sources */,
 				9209FD0D2C1903E200EC528A /* MapExample.swift in Sources */,
 				9209FCFF2C18AD2200EC528A /* IMCResult.swift in Sources */,
+				92B606742C19F52400A73C1B /* ViewPagerNative.swift in Sources */,
 				922E84A02C17C33A00D8844C /* MenuView.swift in Sources */,
 				922E84932C17B4DD00D8844C /* MainView.swift in Sources */,
 				922E84982C17B6E800D8844C /* ImageExample.swift in Sources */,
