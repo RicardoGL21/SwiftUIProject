@@ -33,6 +33,7 @@
 		92B606702C1920B200A73C1B /* ViewPager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92B6066F2C1920B200A73C1B /* ViewPager.swift */; };
 		92B606722C19F00F00A73C1B /* GroupBoxExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92B606712C19F00F00A73C1B /* GroupBoxExample.swift */; };
 		92B606742C19F52400A73C1B /* ViewPagerNative.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92B606732C19F52400A73C1B /* ViewPagerNative.swift */; };
+		92B606762C19FA2600A73C1B /* TabBarExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92B606752C19FA2600A73C1B /* TabBarExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -61,6 +62,7 @@
 		92B6066F2C1920B200A73C1B /* ViewPager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewPager.swift; sourceTree = "<group>"; };
 		92B606712C19F00F00A73C1B /* GroupBoxExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupBoxExample.swift; sourceTree = "<group>"; };
 		92B606732C19F52400A73C1B /* ViewPagerNative.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewPagerNative.swift; sourceTree = "<group>"; };
+		92B606752C19FA2600A73C1B /* TabBarExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -156,6 +158,7 @@
 				9209FD002C18B62800EC528A /* ListExample.swift */,
 				9209FD0C2C1903E200EC528A /* MapExample.swift */,
 				92B606712C19F00F00A73C1B /* GroupBoxExample.swift */,
+				92B606752C19FA2600A73C1B /* TabBarExample.swift */,
 				92B606692C190C7200A73C1B /* CustomDialog.swift */,
 			);
 			path = Components;
@@ -286,6 +289,7 @@
 				92B606682C190B8300A73C1B /* Place.swift in Sources */,
 				922E84842C17A9C100D8844C /* CursoiOSApp.swift in Sources */,
 				9209FD062C18E32D00EC528A /* ApiNetwork.swift in Sources */,
+				92B606762C19FA2600A73C1B /* TabBarExample.swift in Sources */,
 				92B6066A2C190C7200A73C1B /* CustomDialog.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
