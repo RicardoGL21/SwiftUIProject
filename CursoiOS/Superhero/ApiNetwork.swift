@@ -56,7 +56,7 @@ class ApiNetwork {
     }
     
     func getHeroesByQuery(query:String) async throws -> Wrapper {
-        let url = URL(string:"https://superheroapi.com/api/access-token/search/\(query)")
+        let url = URL(string:"https://superheroapi.com/api/b640b813b31a38036f707cc1ff93a71d/search/\(query)")
         
         let (data, _) = try await URLSession.shared.data(from: url!)
         
@@ -67,7 +67,7 @@ class ApiNetwork {
     }
     
     func getHeroById(id:String) async throws -> SuperheroCompleted {
-        let url = URL(string:"https://superheroapi.com/api/access-token/\(id)")
+        let url = URL(string:"https://superheroapi.com/api/b640b813b31a38036f707cc1ff93a71d/\(id)")
         
         let (data, _) = try await URLSession.shared.data(from: url!)
         
